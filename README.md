@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **harshkumbhani/harshkumbhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🏄 Harsh Kumbhani
+
+**`Software Developer Student`**
+
+I am currently a student learning software development at 42 Heilbronn coding school. The school is heavily based on peer-to-peer and project-based learning. All coding projects are built from the ground up, planning and designing the solution with code from a provided PDF describing the project requirements. All the projects are shown as repositories on my GitHub.
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,c,django,bash,docker,neovim,vscode,github" />
+  </a>
+</p>
+
+### GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshkumbhani&show_icons=true&theme=tokyonight)
