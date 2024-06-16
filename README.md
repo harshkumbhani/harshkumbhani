@@ -31,7 +31,13 @@ I am currently a student learning software development at 42 Heilbronn coding sc
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshkumbhani&show_icons=true&theme=tokyonight)
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshkumbhani&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshkumbhani&theme=tokyonight&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
