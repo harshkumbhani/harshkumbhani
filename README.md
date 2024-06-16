@@ -29,7 +29,7 @@ I am currently a student learning software development at 42 Heilbronn coding sc
   </a>
 </p>
 
-### GitHub Stats
+### 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshkumbhani&show_icons=true&theme=tokyonight)
 
