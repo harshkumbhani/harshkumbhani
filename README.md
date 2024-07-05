@@ -21,11 +21,27 @@ Here are some ideas to get you started:
 
 I am currently a student learning software development at 42 Heilbronn coding school. The school is heavily based on peer-to-peer and project-based learning. All coding projects are built from the ground up, planning and designing the solution with code from a provided PDF describing the project requirements. All the projects are shown as repositories on my GitHub.
 
-### 🧰 Languages and Tools
+### 🧰 Programming Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,c,django,bash,docker,neovim,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css" />
+  </a>
+</p>
+
+### Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,docker,neovim,vscode,notion" />
+  </a>
+</p>
+
+### Cuurently Learning
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,django" />
   </a>
 </p>
 
