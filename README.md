@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am currently a student learning software development at 42 Heilbronn coding school. The school is heavily based on peer-to-peer and project-based learning. All coding projects are built from the ground up, planning and designing the solution with code from a provided PDF describing the project requirements. All the projects are shown as repositories on my GitHub.
 
-### 🧰 Programming Languages
+### Programming Languages:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@ I am currently a student learning software development at 42 Heilbronn coding sc
   </a>
 </p>
 
-### Tools
+### Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -37,11 +37,19 @@ I am currently a student learning software development at 42 Heilbronn coding sc
   </a>
 </p>
 
-### Currently Learning
+### Currently Learning:
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,django" />
+  </a>
+</p>
+
+### Contact me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-kumbhani/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
