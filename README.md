@@ -37,7 +37,7 @@ I am currently a student learning software development at 42 Heilbronn coding sc
   </a>
 </p>
 
-### Cuurently Learning
+### Currently Learning
 
 <p align="left">
   <a href="https://skillicons.dev">
